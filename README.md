@@ -7,7 +7,7 @@ The following ERD shows how the data was linked to be queried:
 
 ![Data being sampled](https://github.com/hmohabir/Pewlett-Hackard-Analysis/blob/main/Data/Pictures/Initial%20query.PNG)
 
-## E=Resources
+## Resources
 
 Resources included CSV files and PgAdmin4.
 

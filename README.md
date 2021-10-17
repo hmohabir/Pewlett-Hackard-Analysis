@@ -67,6 +67,6 @@ There are 104594 personnel that can be considered, further down the line, to fil
 
 [fill_the_void.csv](https://github.com/hmohabir/Pewlett-Hackard-Analysis/blob/main/Data/fill_the_void.csv)
 
-Even though they are not currently selected for mentorship, down the line, they can be considered to be moved into roles left by those who are moving into mentorship. This ever revolving change, still would not likely siffice to fill all roles, both current and of those leaving. As such, the company might want to consider other alternatives to foll positions, that might inclide hiring from the outside to fill internal roles.
+Even though they are not currently selected for mentorship, down the line, they can be considered to be moved into roles left by those who are moving into mentorship. This ever-revolving change, still would not likely suffice to fill all roles, both current and of those leaving. As such, the company might want to consider other alternatives to fill positions, that might inclide hiring from the outside to fill internal roles.
 
 
